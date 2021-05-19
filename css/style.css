@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #444;
+  height: 100px;
+}
+
+nav, main {
+  width: 960px;
+  margin: auto;
+}
+
+header img {
+  margin-top: 15px;
+}
